@@ -220,3 +220,17 @@ micro-frontend/
 **Built with React 18, Webpack 5 Module Federation, and Tailwind CSS**
 
 🎉 Ready to run! Start all three apps and visit `http://localhost:3000`
+
+
+<img width="1903" height="906" alt="image" src="https://github.com/user-attachments/assets/33a20250-3949-4b49-b543-936da85bef12" />
+
+<img width="1902" height="910" alt="image" src="https://github.com/user-attachments/assets/e1a69fe8-2721-494e-915f-05b33d1c325b" />
+
+<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/c4ac2bfd-1bd5-4ede-a0a8-0f8a891ce382" />
+
+<img width="1919" height="900" alt="image" src="https://github.com/user-attachments/assets/6c379862-1b32-4c17-a4ba-3723d49fd09e" />
+
+
+
+
+
