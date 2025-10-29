@@ -1,0 +1,23 @@
+{
+  "name": "micro-frontend-root",
+  "version": "1.0.0",
+  "description": "React 18 Micro-Frontend with Webpack 5 Module Federation",
+  "private": true,
+  "scripts": {
+    "install:all": "cd host && npm install && cd ../chat && npm install && cd ../email && npm install",
+    "start:host": "cd host && npm start",
+    "start:chat": "cd chat && npm start",
+    "start:email": "cd email && npm start",
+    "build:all": "cd host && npm run build && cd ../chat && npm run build && cd ../email && npm run build",
+    "clean": "rm -rf host/node_modules host/dist chat/node_modules chat/dist email/node_modules email/dist"
+  },
+  "keywords": [
+    "micro-frontend",
+    "module-federation",
+    "webpack5",
+    "react18",
+    "tailwindcss"
+  ],
+  "author": "",
+  "license": "MIT"
+}
